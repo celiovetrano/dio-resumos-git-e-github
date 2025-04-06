@@ -46,5 +46,5 @@ git remote add origin https://github.com/celiovetrano/screenmatch.git
 git branch -M main
 git push -u origin main
 ```
-
+### outros comandos git para auxiliar criação de novas branches, merge e outros
 
