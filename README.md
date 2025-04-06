@@ -3,11 +3,11 @@
 
 Repositorio para armazenas resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me).
 
-## ![Livro](https://img.icons8.com/?size=50&id=114071&format=png&color=000000) Documentação
+## ![Livro](https://img.icons8.com/?size=40&id=114071&format=png&color=000000) Documentação
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentacao GitHub](https://docs.github.com)
 
-## ![Resumo](https://img.icons8.com/?size=50&id=52507&format=png&color=000000) Lista de Comandos Importantes:
+## ![Resumo](https://img.icons8.com/?size=40&id=52507&format=png&color=000000) Lista de Comandos Importantes:
 
 ### Usando o SSH:
 
